@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\actions",
+    "\\src\\components",
+    "\\src\\images",
+    "\\src\\reducers",
+    "\\src\\router",
+    "\\src\\store",
+    "\\src\\utils"
+  ],
+  "SelectedNode": "\\src\\styles.css",
+  "PreviewInSolutionExplorer": false
+}
